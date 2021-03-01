@@ -1,4 +1,3 @@
-# Poop  
-Some code put in a day before I first enter NS.  
-Too lazy atm to put descriptions.  
-Probably mostly consist of practice with new data structures like vectors and stacks and whatever.  
+# Third batch of problems
+
+Stopped doing stuff after this because of NS - on hindsight should have made some time to practise
